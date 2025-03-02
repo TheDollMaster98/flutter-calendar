@@ -1,0 +1,10 @@
+# Flutter specific
+.dart_tool/
+.build/
+.pub-cache/
+.packages
+**/build/
+**/ios/Pods/
+**/android/.gradle/
+**/android/app/debug.keystore
+**/.idea/
